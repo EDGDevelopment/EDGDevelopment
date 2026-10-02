@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/TheOrangeIcon"><img src="https://img.shields.io/badge/GitHub-TheOrangeIcon-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://x.com/TheOrangeIcon1"><img src="https://img.shields.io/badge/X-@TheOrangeIcon1-000000?style=flat-square&logo=x" alt="X"></a>
 </p>
 
 ---
@@ -49,4 +48,4 @@
 
 ## Contact
 
-Open to collaboration and professional opportunities. Reach out via [X](https://x.com/TheOrangeIcon1) or open an issue on any of my public repositories.
+Open to collaboration and professional opportunities. Reach out by opening an issue on any of my public repositories.
