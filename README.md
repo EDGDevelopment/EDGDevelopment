@@ -1,11 +1,11 @@
-<h1 align="center">TheOrangeIcon</h1>
+<h1 align="center">EDGDevelopment</h1>
 
 <p align="center">
   Software developer building full-stack web applications, browser tooling, and JVM-based projects.
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheOrangeIcon"><img src="https://img.shields.io/badge/GitHub-TheOrangeIcon-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/EDGDevelopment"><img src="https://img.shields.io/badge/GitHub-EDGDevelopment-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
 ---
@@ -42,8 +42,8 @@
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheOrangeIcon&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrangeIcon&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EDGDevelopment&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDGDevelopment&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" alt="Top languages">
 </p>
 
 ## Contact
